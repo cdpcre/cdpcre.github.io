@@ -46,6 +46,17 @@ export function HomeClient({
           <p className="mt-1 text-muted-foreground">
             Algorithm Engineer · Computer Vision & ML
           </p>
+          <p className="mt-1 text-sm text-muted-foreground">
+            {lang === "it" ? "Milano, Italia" : "Milan, Italy"} ·{" "}
+            <a
+              href="https://linkedin.com/in/crescenzodepalma"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-primary hover:underline"
+            >
+              LinkedIn
+            </a>
+          </p>
         </div>
       </header>
 

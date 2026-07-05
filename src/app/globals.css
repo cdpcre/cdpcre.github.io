@@ -201,6 +201,22 @@
   margin-top: 0.25rem;
   margin-bottom: 0.25rem;
 }
+.prose h2 {
+  font-family: var(--font-geist-mono), ui-monospace, monospace;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--foreground);
+  border-bottom: 2px solid var(--border);
+  padding-bottom: 0.5rem;
+  margin-top: 2.25rem;
+  margin-bottom: 1rem;
+}
+.prose p {
+  margin-top: 0.6rem;
+  margin-bottom: 0.6rem;
+}
 
 .card-subtle {
   background: var(--card);

@@ -20,7 +20,7 @@ ML Engineer e Data Scientist con oltre 6 anni di esperienza nello sviluppo di pr
 - Definito i requisiti AI con i team di prodotto e ingegneria e tradotto i vincoli di business in specifiche deployabili.
 - Progettato e ottimizzato modelli embedded di object detection e OCR, raggiungendo 40 fps su ARM con >95% di accuratezza.
 - Sviluppato da zero un algoritmo di autofocus (−65% tempo di messa a fuoco) e ottimizzato CNN con quantization/pruning (3× speedup, accuratezza mantenuta al 98%).
-- *Tech: Python, TensorFlow, NumPy, OpenCV, C++.*
+- *Skills: Python, TensorFlow, NumPy, OpenCV, C++.*
 
 ---
 
@@ -30,7 +30,7 @@ ML Engineer e Data Scientist con oltre 6 anni di esperienza nello sviluppo di pr
 - Costruito pipeline automatiche di KPI e capacità su dati strutturati/non strutturati, aumentando le performance del team del 35%.
 - Guidato la pianificazione delle risorse e la governance di consegna per 15+ progetti cross-funzionali, dall'analisi al reporting agli stakeholder.
 - Responsabile del ciclo di vita delle feature AI, dallo sviluppo al deploy in produzione, con focus su qualità e affidabilità di consegna.
-- *Tech: Python, SQL, BI reporting, predictive analytics.*
+- *Skills: Python, SQL, BI reporting, predictive analytics.*
 
 ---
 
@@ -40,7 +40,7 @@ ML Engineer e Data Scientist con oltre 6 anni di esperienza nello sviluppo di pr
 - Consegnato 30+ report esecutivi per CEO/board, riducendo i tempi decisionali del 25% grazie a maggiore visibilità delle performance.
 - Guidato 2 progetti software di modernizzazione del data-warehouse, coordinando sync settimanali, documentazione e stakeholder.
 - Sviluppato dashboard predittive per pianificazione di capacità e risorse in una rete ospedaliera che serve 500K+ pazienti.
-- *Tech: Python, Excel, Qlik Sense, processi data-warehouse.*
+- *Skills: Python, Excel, Qlik Sense, processi data-warehouse.*
 
 ---
 
@@ -50,7 +50,7 @@ ML Engineer e Data Scientist con oltre 6 anni di esperienza nello sviluppo di pr
 - Guidato pipeline di deep learning end-to-end per la stratificazione del rischio su TC nell'imaging medico 3D.
 - Implementato una 3D-CNN per gestire volumi voxel 512×512×200 con strategie patch-based sotto vincoli di memoria GPU.
 - Pubblicato ricerca multimodale imaging+clinico con AUC 0.81 e tradotto gli output in decisioni cliniche azionabili.
-- *Tech: Python, Keras, Scikit-learn, SimpleITK, Pandas, SQL.*
+- *Skills: Python, Keras, Scikit-learn, SimpleITK, Pandas, SQL.*
 
 ---
 
@@ -58,7 +58,7 @@ ML Engineer e Data Scientist con oltre 6 anni di esperienza nello sviluppo di pr
 *Automotive · Nov 2018 – Mar 2019*
 
 - Sviluppato classificatore real-time su radar FMCW per l'occupant classification (bambino vs adulto) della soluzione di monitoraggio in abitacolo CabinGuard® su radar mmWave TI AWRx, raggiungendo il 96% di accuratezza con latenza <250 ms su ECU embedded.
-- *Tech: Python, Keras, XGBoost, SciPy, C++, MATLAB.*
+- *Skills: Python, Keras, XGBoost, SciPy, C++, MATLAB.*
 
 ## Formazione
 

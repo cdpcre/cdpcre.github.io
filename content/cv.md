@@ -20,7 +20,7 @@ ML Engineer and Data Scientist with 6+ years delivering AI products from researc
 - Defined AI requirements with product and engineering teams and translated business constraints into deployable specifications.
 - Designed and optimized embedded object detection and OCR models, reaching 40 fps on ARM with >95% accuracy.
 - Built an autofocus algorithm from scratch (−65% focusing time) and optimized CNNs with quantization/pruning (3× speedup, 98% accuracy retained).
-- *Tech: Python, TensorFlow, NumPy, OpenCV, C++.*
+- *Skills: Python, TensorFlow, NumPy, OpenCV, C++.*
 
 ---
 
@@ -30,7 +30,7 @@ ML Engineer and Data Scientist with 6+ years delivering AI products from researc
 - Built automated KPI and capacity pipelines across structured/unstructured data, increasing team performance by 35%.
 - Led resource planning and delivery governance for 15+ cross-functional projects from analysis to stakeholder reporting.
 - Owned the AI feature lifecycle from development to production deployment with a focus on quality and delivery reliability.
-- *Tech: Python, SQL, BI reporting, predictive analytics.*
+- *Skills: Python, SQL, BI reporting, predictive analytics.*
 
 ---
 
@@ -40,7 +40,7 @@ ML Engineer and Data Scientist with 6+ years delivering AI products from researc
 - Delivered 30+ executive reports for CEO/board, reducing decision time by 25% through clearer performance visibility.
 - Led 2 software projects to modernize data-warehouse capabilities, coordinating weekly syncs, documentation and stakeholders.
 - Developed predictive dashboards for capacity and resource planning in a hospital network serving 500K+ patients.
-- *Tech: Python, Excel, Qlik Sense, data-warehouse processes.*
+- *Skills: Python, Excel, Qlik Sense, data-warehouse processes.*
 
 ---
 
@@ -50,7 +50,7 @@ ML Engineer and Data Scientist with 6+ years delivering AI products from researc
 - Led end-to-end deep learning pipelines for CT risk stratification on 3D medical imaging workflows.
 - Implemented a 3D-CNN handling 512×512×200 voxel volumes with patch-based strategies under constrained GPU memory.
 - Published multimodal imaging+clinical research with AUC 0.81 and translated outputs into actionable clinical decisions.
-- *Tech: Python, Keras, Scikit-learn, SimpleITK, Pandas, SQL.*
+- *Skills: Python, Keras, Scikit-learn, SimpleITK, Pandas, SQL.*
 
 ---
 
@@ -58,7 +58,7 @@ ML Engineer and Data Scientist with 6+ years delivering AI products from researc
 *Automotive · Nov 2018 – Mar 2019*
 
 - Developed real-time FMCW radar occupant classification (child vs adult) for the CabinGuard® in-cabin monitoring solution on TI AWRx mmWave radar, reaching 96% accuracy at <250 ms latency on the embedded ECU.
-- *Tech: Python, Keras, XGBoost, SciPy, C++, MATLAB.*
+- *Skills: Python, Keras, XGBoost, SciPy, C++, MATLAB.*
 
 ## Education
 

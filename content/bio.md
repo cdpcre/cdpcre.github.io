@@ -6,7 +6,7 @@ I'm **Crescenzo De Palma**, an **Algorithm Engineer** working at the intersectio
 
 By day I'm at **Tattile**, developing state-of-the-art computer-vision algorithms for road-surveillance and automotive applications: real-time **OCR** for license-plate recognition across many countries, object detection and models optimized for **embedded** deployment.
 I care a lot about inference latency and making heavy models run on the edge.   
-I've also worked on **healthcare predictive analytics** — multi-modal ML that fuses CT imaging with clinical data for patient risk stratification — and on **FMCW radar** signal processing, where a classifier I trained reached ~96% accuracy under 250 ms processing time.
+I've also worked on **healthcare predictive analytics** — multi-modal ML that fuses CT imaging with clinical data for patient risk stratification — and on **FMCW radar** signal processing: at **Azcom** I built in-cabin monitoring features (occupant **classification** and **localization**) for the **CabinGuard®** solution on TI AWRx mmWave hardware, reaching ~96% accuracy under 250 ms.
 
 <div style="height:1.5rem"></div>
 

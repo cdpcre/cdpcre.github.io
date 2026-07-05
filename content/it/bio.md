@@ -6,7 +6,7 @@ Sono **Crescenzo De Palma**, **ingegnere algoritmico** nel campo della **compute
 
 Lavoro in **Tattile**, dove sviluppo algoritmi di visione artificiale all'avanguardia per applicazioni di videosorveglianza stradale e automotive: **OCR** in tempo reale per il riconoscimento delle targhe in diversi Paesi, object detection e modelli ottimizzati per girare su sistemi **embedded**. Presto molta attenzione alla latenza di inferenza e a far funzionare modelli pesanti direttamente sull'edge.
 
-Ho lavorato anche all'**analisi predittiva in ambito sanitario** — machine learning multi-modale che combina immagini TAC e dati clinici per la stratificazione del rischio dei pazienti — e all'**elaborazione di segnali radar FMCW**, dove un classificatore che ho addestrato ha raggiunto circa il 96% di accuratezza in meno di 250 ms.
+Ho lavorato anche all'**analisi predittiva in ambito sanitario** — machine learning multi-modale che combina immagini TAC e dati clinici per la stratificazione del rischio dei pazienti — e all'**elaborazione di segnali radar FMCW**: in **Azcom** ho sviluppato feature di monitoraggio in abitacolo (**classificazione** e **localizzazione** dell'occupante) per la soluzione **CabinGuard®** su hardware mmWave TI AWRx, raggiungendo circa il 96% di accuratezza in meno di 250 ms.
 
 <div style="height:1.5rem"></div>
 

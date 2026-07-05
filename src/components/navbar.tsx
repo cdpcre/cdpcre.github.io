@@ -14,8 +14,9 @@ export function Navbar() {
   const s = t[lang];
 
   const navItems = [
-    { href: "/blog", label: s.blog },
     { href: "/projects", label: s.projects },
+    { href: "/cv", label: s.cv },
+    { href: "/blog", label: s.blog },
   ];
 
   return (
@@ -28,59 +29,55 @@ export function Navbar() {
           </svg>
         </Link>
 
-        {/* Desktop nav — hidden on home page */}
-        {pathname !== "/" && (
-          <ul className="hidden sm:flex gap-6 text-sm font-mono items-center">
-            {navItems.map((item) => (
-              <li key={item.href}>
-                <Link
-                  href={item.href}
-                  className={`transition-colors hover:text-primary ${
-                    pathname === item.href
-                      ? "text-primary"
-                      : "text-muted-foreground"
-                  }`}
-                >
-                  {item.label}
-                </Link>
-              </li>
-            ))}
-          </ul>
-        )}
+        {/* Desktop nav */}
+        <ul className="hidden sm:flex gap-6 text-sm font-mono items-center">
+          {navItems.map((item) => (
+            <li key={item.href}>
+              <Link
+                href={item.href}
+                className={`transition-colors hover:text-primary ${
+                  pathname === item.href
+                    ? "text-primary"
+                    : "text-muted-foreground"
+                }`}
+              >
+                {item.label}
+              </Link>
+            </li>
+          ))}
+        </ul>
 
         <div className="flex items-center gap-2">
           <LanguageToggle />
           <ThemeToggle />
-          {/* Mobile hamburger — hidden on home page */}
-          {pathname !== "/" && (
-            <button
-              className="sm:hidden p-2 -mr-2 text-muted-foreground hover:text-foreground"
-              onClick={() => setOpen(!open)}
-              aria-label="Toggle menu"
+          {/* Mobile hamburger */}
+          <button
+            className="sm:hidden p-2 -mr-2 text-muted-foreground hover:text-foreground"
+            onClick={() => setOpen(!open)}
+            aria-label="Toggle menu"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="20"
+              height="20"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
             >
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="20"
-                height="20"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-              >
-                {open ? (
-                  <path d="M18 6 6 18M6 6l12 12" />
-                ) : (
-                  <>
-                    <line x1="4" x2="20" y1="12" y2="12" />
-                    <line x1="4" x2="20" y1="6" y2="6" />
-                    <line x1="4" x2="20" y1="18" y2="18" />
-                  </>
-                )}
-              </svg>
-            </button>
-          )}
+              {open ? (
+                <path d="M18 6 6 18M6 6l12 12" />
+              ) : (
+                <>
+                  <line x1="4" x2="20" y1="12" y2="12" />
+                  <line x1="4" x2="20" y1="6" y2="6" />
+                  <line x1="4" x2="20" y1="18" y2="18" />
+                </>
+              )}
+            </svg>
+          </button>
         </div>
       </nav>
 

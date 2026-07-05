@@ -100,3 +100,41 @@ export async function getBioContent(lang: string = "en"): Promise<{
     contentHtml,
   };
 }
+
+export interface CVSection {
+  title: string;
+  body: string;
+}
+
+export async function getCVContent(lang: string = "en"): Promise<{
+  meta: ContentMeta;
+  sections: CVSection[];
+} | null> {
+  const base = lang === "it" ? path.join(contentDirectory, "it") : contentDirectory;
+  const cvPath = path.join(base, "cv.md");
+  if (!fs.existsSync(cvPath)) return null;
+
+  const fileContents = fs.readFileSync(cvPath, "utf8");
+  const { data, content } = matter(fileContents);
+  const html = await processMarkdown(content);
+
+  // Split the rendered HTML into sections, one per <h2>.
+  const sections: CVSection[] = [];
+  const re = /<h2[^>]*>([\s\S]*?)<\/h2>([\s\S]*?)(?=<h2[^>]*>|$)/gi;
+  let m: RegExpExecArray | null;
+  while ((m = re.exec(html)) !== null) {
+    const title = m[1].replace(/<[^>]+>/g, "").trim();
+    const body = m[2].trim();
+    if (title) sections.push({ title, body });
+  }
+
+  return {
+    meta: {
+      slug: "cv",
+      title: (data.title as string) ?? "Curriculum Vitae",
+      date: "",
+      ...data,
+    },
+    sections,
+  };
+}

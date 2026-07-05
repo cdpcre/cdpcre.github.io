@@ -175,6 +175,21 @@
   font-size: 0.85em;
 }
 
+/* CV experience entries: bold role titles and clearly visible dividers.
+   The prose-h3:/prose-hr: Tailwind variants in cv-client.tsx require the
+   @tailwindcss/typography plugin, which is not installed in this Tailwind v4
+   setup, so they emit no CSS. These plain rules guarantee the styling
+   regardless of the plugin, and use a higher-contrast color than the
+   near-invisible --border token. Unlayered so they win over preflight. */
+.prose h3 {
+  font-weight: 700;
+}
+.prose hr {
+  border: none;
+  border-top: 1px solid color-mix(in srgb, var(--foreground) 45%, transparent);
+  margin: 2rem 0;
+}
+
 .card-subtle {
   background: var(--card);
   border: 1px solid var(--border);

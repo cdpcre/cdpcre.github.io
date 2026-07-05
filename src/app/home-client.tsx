@@ -57,8 +57,9 @@ export function HomeClient({
 
       <nav className="mt-12 flex gap-8 text-lg">
         {[
-          { href: "/blog", label: s.blog },
           { href: "/projects", label: s.projects },
+          { href: "/cv", label: s.cv },
+          { href: "/blog", label: s.blog },
         ].map((item) => (
           <Link
             key={item.href}

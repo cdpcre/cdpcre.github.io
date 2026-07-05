@@ -41,6 +41,7 @@ export const t = {
   en: {
     blog: "Blog",
     projects: "Projects",
+    cv: "Curriculum Vitae",
     tags: "Tags",
     language: "Language",
     back: "← Back",
@@ -56,6 +57,7 @@ export const t = {
   it: {
     blog: "Blog",
     projects: "Progetti",
+    cv: "Curriculum Vitae",
     tags: "Tag",
     language: "Lingua",
     back: "← Indietro",

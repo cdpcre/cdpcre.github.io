@@ -48,32 +48,23 @@ export function ProjectsClient({
     );
   }
 
-  const getSpan = (size: string | null) => {
-    if (size === "large") return "sm:col-span-2 sm:row-span-2";
-    if (size === "medium") return "sm:col-span-2";
-    return "";
-  };
-
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 py-16">
       <h1 className="font-mono text-2xl font-bold mb-2">{s.projects}</h1>
       <p className="text-sm text-muted-foreground mb-8 font-mono">
         {s.projectsIntro}
       </p>
-      <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
         {projects.map((project) => {
-          const isLarge = project.size === "large";
           const commits = commitsMap.get(project.slug) ?? [];
           const titleHref = project.github ?? project.link;
 
           return (
             <div
               key={project.slug}
-              className={`card-subtle rounded-lg p-5 flex flex-col ${getSpan(project.size)}`}
+              className="card-subtle rounded-lg p-5 flex flex-col"
             >
-              <h2
-                className={`font-mono font-semibold ${isLarge ? "text-xl" : "text-lg"}`}
-              >
+              <h2 className="font-mono font-semibold text-lg">
                 {titleHref ? (
                   <a
                     href={titleHref}
@@ -88,9 +79,7 @@ export function ProjectsClient({
                 )}
               </h2>
               {project.description && (
-                <p
-                  className={`mt-2 text-muted-foreground ${isLarge ? "text-base" : "text-sm"}`}
-                >
+                <p className="mt-2 text-muted-foreground text-sm">
                   {project.description}
                 </p>
               )}

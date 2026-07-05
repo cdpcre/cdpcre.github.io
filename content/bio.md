@@ -20,7 +20,9 @@ I hold a **Master's degree in Telecommunications Engineering** from the Universi
 
 ## Interests
 
-Agentic coding (Claude Code), Edge AI, healthcare AI and the craft of turning a heavy model into something that runs in milliseconds. **Exploring:** vision transformers, MLOps and cloud platforms for ML.
+Agentic coding (Claude Code), edge AI, healthcare AI and the craft of turning a heavy model into something that runs in milliseconds.
+
+**Exploring:** vision transformers, MLOps and cloud platforms for ML.
 
 Reach out for a tech chat.
 

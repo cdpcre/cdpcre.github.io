@@ -4,7 +4,11 @@ title: "Curriculum Vitae"
 
 ## Profilo
 
-ML Engineer e Data Scientist con oltre 6 anni di esperienza nello sviluppo di prodotti AI, dalla ricerca alla produzione, in ambito videosorveglianza stradale e sanitario. Specializzato in computer vision real-time, OCR, autofocus e imaging medico 3D sotto vincoli embedded e operativi. Impatto misurabile: 40 fps a >95% di accuratezza su ARM, autofocus 65% più veloce, +35% sui KPI e AUC 0.81 per la predizione di outcome clinici. Solido partner di stakeholder di prodotto, ingegneria e direzione, con esperienza nella traduzione delle metriche di modello in decisioni operative e strategiche.
+ML Engineer e Data Scientist con oltre 8 anni di esperienza nello sviluppo di prodotti AI, dalla ricerca alla produzione, in ambito videosorveglianza stradale e sanitario. Specializzato in computer vision real-time, OCR, autofocus e imaging medico 3D sotto vincoli embedded e operativi.
+
+Impatto misurabile: 40 fps a >95% di accuratezza su ARM, autofocus 65% più veloce, +35% sui KPI e AUC 0.81 per la predizione di outcome clinici.
+
+Solido partner di stakeholder di prodotto, ingegneria e direzione, con esperienza nella traduzione delle metriche di modello in decisioni operative e strategiche.
 
 ## Competenze principali
 

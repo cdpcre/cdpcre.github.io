@@ -4,7 +4,11 @@ title: "Curriculum Vitae"
 
 ## Summary
 
-ML Engineer and Data Scientist with 6+ years delivering AI products from research to production across road surveillance and healthcare. Specialized in real-time computer vision, OCR, autofocus and 3D medical imaging under embedded and operational constraints. Delivered measurable impact: 40 fps at >95% accuracy on ARM, 65% faster autofocus, 35% KPI uplift and AUC 0.81 for clinical outcome prediction. Strong partner to product, engineering and executive stakeholders, translating model performance into operational and strategic decisions.
+ML Engineer and Data Scientist with 8+ years delivering AI products from research to production across road surveillance and healthcare. Specialized in real-time computer vision, OCR, autofocus and 3D medical imaging under embedded and operational constraints.
+
+Delivered measurable impact: 40 fps at >95% accuracy on ARM, 65% faster autofocus, 35% KPI uplift and AUC 0.81 for clinical outcome prediction.
+
+Strong partner to product, engineering and executive stakeholders, translating model performance into operational and strategic decisions.
 
 ## Core Skills
 

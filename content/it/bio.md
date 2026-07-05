@@ -20,7 +20,9 @@ Ho conseguito la **laurea magistrale in Ingegneria delle Telecomunicazioni** pre
 
 ## Interessi
 
-Agentic coding (Claude Code), edge AI, intelligenza artificiale in ambito sanitario e l'arte di trasformare un modello pesante in qualcosa che gira in pochi millisecondi. **Cosa sto approfondendo:** vision transformer, MLOps e piattaforme cloud per il machine learning.
+Agentic coding (Claude Code), edge AI, intelligenza artificiale in ambito sanitario e l'arte di trasformare un modello pesante in qualcosa che gira in pochi millisecondi.
+
+**Cosa sto approfondendo:** vision transformer, MLOps e piattaforme cloud per il machine learning.
 
 Contattami, anche solo per scambiare due chiacchiere tecniche!
 

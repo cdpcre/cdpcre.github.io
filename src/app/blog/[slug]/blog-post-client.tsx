@@ -58,7 +58,10 @@ export function BlogPostClient({
             [&_a]:text-accent-coral [&_a]:underline [&_a]:underline-offset-2 [&_a]:hover:text-primary [&_a]:transition-colors dark:[&_a]:text-accent-cool
             [&_table]:w-full [&_table]:my-6 [&_table]:border-collapse [&_table]:text-sm
             [&_th]:text-left [&_th]:font-bold [&_th]:border-b [&_th]:border-border [&_th]:py-2 [&_th]:px-3
-            [&_td]:border-b [&_td]:border-border [&_td]:py-2 [&_td]:px-3 [&_td]:align-top"
+            [&_td]:border-b [&_td]:border-border [&_td]:py-2 [&_td]:px-3 [&_td]:align-top
+            [&_figure]:my-8 [&_figure]:first:mt-0
+            [&_img]:max-w-full [&_img]:h-auto [&_img]:rounded-lg [&_img]:border [&_img]:border-border [&_figure_img]:my-0
+            [&_figcaption]:mt-2 [&_figcaption]:text-center [&_figcaption]:text-sm [&_figcaption]:text-muted-foreground [&_figcaption]:italic"
           dangerouslySetInnerHTML={{ __html: post.contentHtml }}
         />
       </article>

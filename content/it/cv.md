@@ -12,9 +12,9 @@ Solido partner di stakeholder di prodotto, ingegneria e direzione, con esperienz
 
 ## Competenze principali
 
-- **Machine Learning & Vision** — Deep Learning, Computer Vision, OCR, Object Detection, Imaging Medico 3D, Radar Classification
-- **Produzione & Ingegneria** — Python, C/C++, TensorFlow, Keras, PyTorch, OpenCV, SQL, Docker, Linux, Git, ETL Pipelines
-- **Ottimizzazione & Delivery** — Quantization, Pruning, Real-time Inference, Model Compression, KPI Analytics, Stakeholder Management
+- **Machine Learning & Vision**: Deep Learning, Computer Vision, OCR, Object Detection, Imaging Medico 3D, Radar Classification
+- **Produzione & Ingegneria**: Python, C/C++, TensorFlow, Keras, PyTorch, OpenCV, SQL, Docker, Linux, Git, ETL Pipelines
+- **Ottimizzazione & Delivery**: Quantization, Pruning, Real-time Inference, Model Compression, KPI Analytics, Stakeholder Management
 
 ## Esperienza professionale
 
@@ -66,17 +66,17 @@ Solido partner di stakeholder di prodotto, ingegneria e direzione, con esperienz
 
 ## Formazione
 
-- **Laurea Magistrale in Ingegneria delle Telecomunicazioni**, Università degli Studi di Napoli Federico II — 110/110 cum laude. Tesi: building detection da immagini remote sensing con reti convoluzionali profonde (Python, TensorFlow).
-- **Laurea Triennale in Ingegneria delle Telecomunicazioni**, Università degli Studi di Napoli Federico II — 101/110.
+- **Laurea Magistrale in Ingegneria delle Telecomunicazioni**, Università degli Studi di Napoli Federico II, 110/110 cum laude. Tesi: building detection da immagini remote sensing con reti convoluzionali profonde (Python, TensorFlow).
+- **Laurea Triennale in Ingegneria delle Telecomunicazioni**, Università degli Studi di Napoli Federico II, 101/110.
 
 ## Certificazioni
 
-- Certified Scrum Product Owner (CSPO), Scrum Alliance — Dic 2023
-- Google Project Management Certificate, Coursera — Lug 2022
+- Certified Scrum Product Owner (CSPO), Scrum Alliance, Dic 2023
+- Google Project Management Certificate, Coursera, Lug 2022
 
 ## Lingue
 
-- Italiano (madrelingua), Inglese (fluente), Tedesco (A1+)
+- Italiano (madrelingua), Inglese (fluente), Tedesco (A1+, improving)
 
 ## Attività
 

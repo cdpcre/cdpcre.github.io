@@ -51,7 +51,7 @@ export const t = {
     viewProject: "View project →",
     madeWith: "made with pixels & gradients",
     projectsIntro:
-      "A selection of algorithms and systems I've built — from real-time computer vision on embedded hardware to multi-modal ML.",
+      "A selection of algorithms and systems I've built from real-time computer vision on embedded hardware to multi-modal ML.",
     allPosts: "← All posts",
   },
   it: {
@@ -67,7 +67,7 @@ export const t = {
     viewProject: "Vedi progetto →",
     madeWith: "fatto con pixel e gradienti",
     projectsIntro:
-      "Una selezione di algoritmi e sistemi che ho costruito — dalla computer vision real-time su hardware embedded al ML multi-modale.",
+      "Una selezione di algoritmi e sistemi che ho costruito dalla computer vision real-time su hardware embedded al ML multi-modale.",
     allPosts: "← Tutti gli articoli",
   },
 } as const;

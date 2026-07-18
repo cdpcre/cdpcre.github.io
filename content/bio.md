@@ -4,7 +4,7 @@ title: "About Crescenzo"
 
 ## About
 
-I'm **Crescenzo De Palma**, an **Algorithm Engineer** working at the intersection of **Computer Vision, Deep Learning and Data Science**. I build vision systems that have to survive the real world — fast, on constrained hardware and reliable enough to actually matter.
+I'm **Crescenzo De Palma**, an **Algorithm Engineer** working at the intersection of **computer vision, deep learning and data science**. I build vision systems that have to survive the real world: fast, on constrained hardware and reliable enough to actually matter.
 
 ## Currently
 
@@ -12,7 +12,7 @@ By day I'm at **Tattile**, developing state-of-the-art computer-vision algorithm
 
 ## Also worked on
 
-**Healthcare predictive analytics** — multi-modal ML that fuses CT imaging with clinical data for patient risk stratification — and **FMCW radar** signal processing: at **Azcom** I built in-cabin monitoring features (occupant **classification** and **localization**) for the **CabinGuard®** solution on TI AWRx mmWave hardware, reaching ~96% accuracy under 250 ms.
+**Healthcare predictive analytics** (multi-modal ML that fuses CT imaging with clinical data for patient risk stratification) and **FMCW radar** signal processing: at **Azcom** I built in-cabin monitoring features (occupant **classification** and **localization**) for the **CabinGuard®** solution on TI AWRx mmWave hardware, reaching ~96% accuracy under 250 ms.
 
 ## Background
 
@@ -28,4 +28,4 @@ Reach out for a tech chat.
 
 ## Languages
 
-I speak **Italian** (native), **English** (professional) and **German** (A1+).
+I speak **Italian** (native), **English** (professional) and **German** (A1+, improving).

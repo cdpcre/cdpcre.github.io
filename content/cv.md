@@ -12,9 +12,9 @@ Strong partner to product, engineering and executive stakeholders, translating m
 
 ## Core Skills
 
-- **Machine Learning & Vision** — Deep Learning, Computer Vision, OCR, Object Detection, 3D Medical Imaging, Radar Classification
-- **Production & Engineering** — Python, C/C++, TensorFlow, Keras, PyTorch, OpenCV, SQL, Docker, Linux, Git, ETL Pipelines
-- **Optimization & Delivery** — Quantization, Pruning, Real-time Inference, Model Compression, KPI Analytics, Stakeholder Management
+- **Machine Learning & Vision**: Deep Learning, Computer Vision, OCR, Object Detection, 3D Medical Imaging, Radar Classification
+- **Production & Engineering**: Python, C/C++, TensorFlow, Keras, PyTorch, OpenCV, SQL, Docker, Linux, Git, ETL Pipelines
+- **Optimization & Delivery**: Quantization, Pruning, Real-time Inference, Model Compression, KPI Analytics, Stakeholder Management
 
 ## Professional Experience
 
@@ -66,17 +66,17 @@ Strong partner to product, engineering and executive stakeholders, translating m
 
 ## Education
 
-- **MSc Telecommunications Engineering**, Università di Napoli Federico II — 110/110 cum laude. Thesis: building detection from remote sensing imagery with deep convolutional neural networks (Python, TensorFlow).
-- **BSc Telecommunications Engineering**, Università di Napoli Federico II — 101/110.
+- **MSc Telecommunications Engineering**, Università di Napoli Federico II, 110/110 cum laude. Thesis: building detection from remote sensing imagery with deep convolutional neural networks (Python, TensorFlow).
+- **BSc Telecommunications Engineering**, Università di Napoli Federico II, 101/110.
 
 ## Certifications
 
-- Certified Scrum Product Owner (CSPO), Scrum Alliance — Dec 2023
-- Google Project Management Certificate, Coursera — Jul 2022
+- Certified Scrum Product Owner (CSPO), Scrum Alliance, Dec 2023
+- Google Project Management Certificate, Coursera, Jul 2022
 
 ## Languages
 
-- Italian (native), English (fluent), German (A1+)
+- Italian (native), English (fluent), German (A1+, improving)
 
 ## Activities
 

@@ -12,7 +12,7 @@ Lavoro in **Tattile**, dove sviluppo algoritmi di visione artificiale all'avangu
 
 ## Altri progetti
 
-**Analisi predittiva in ambito sanitario** — machine learning multi-modale che combina immagini TAC e dati clinici per la stratificazione del rischio dei pazienti — ed **elaborazione di segnali radar FMCW**: in **Azcom** ho sviluppato feature di monitoraggio in abitacolo (**classificazione** e **localizzazione** dell'occupante) per la soluzione **CabinGuard®** su hardware mmWave TI AWRx, raggiungendo circa il 96% di accuratezza in meno di 250 ms.
+**Analisi predittiva in ambito sanitario** (machine learning multi-modale che combina immagini TAC e dati clinici per la stratificazione del rischio dei pazienti) ed **elaborazione di segnali radar FMCW**: in **Azcom** ho sviluppato feature di monitoraggio in abitacolo (**classificazione** e **localizzazione** dell'occupante) per la soluzione **CabinGuard®** su hardware mmWave TI AWRx, raggiungendo circa il 96% di accuratezza in meno di 250 ms.
 
 ## Formazione
 
@@ -28,4 +28,4 @@ Contattami, anche solo per scambiare due chiacchiere tecniche!
 
 ## Lingue
 
-Parlo **italiano** (madrelingua), **inglese** (livello professionale) e **tedesco** (A1+).
+Parlo **italiano** (madrelingua), **inglese** (livello professionale) e **tedesco** (A1+, improving).

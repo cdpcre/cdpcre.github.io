@@ -25,7 +25,7 @@ const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://cdpcre.github.io";
 const name = "Crescenzo De Palma";
 const role = "Algorithm Engineer";
 const description =
-  "Personal website of Crescenzo De Palma — algorithm engineer focused on computer vision, deep learning, and data science. Bio, projects, and notes.";
+  "Personal website of Crescenzo De Palma, algorithm engineer focused on computer vision, deep learning, and data science. Bio, projects, and notes.";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
